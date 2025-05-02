@@ -44,6 +44,11 @@
 
 ---
 
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions)
+
+
 ## 📫 Connect with Me
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/shubham-shiyale-92525631a)
