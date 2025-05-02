@@ -30,7 +30,8 @@
   ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&link=https://kubernetes.io/)
 
 - **CI/CD**:  
-  ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-blue?logo=jenkins&link=https://www.jenkins.io/)  
+  ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-blue?logo=jenkins&link=https://www.jenkins.io/)
+  ![Argo CD](https://img.shields.io/badge/CI%2FCD-Argo%20CD-blue?logo=argo&link=https://argoproj.github.io/argo-cd/)
 
 - **Infrastructure as Code (IaC)**:  
   ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform&link=https://www.terraform.io/)  
