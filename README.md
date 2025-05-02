@@ -60,11 +60,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamshiyale&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shubham-shiyale-92525631a)
 - 💼 Portfolio: *(Coming soon)*
