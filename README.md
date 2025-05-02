@@ -30,7 +30,6 @@
   ![Grafana](https://img.shields.io/badge/Monitoring-Grafana-blue?logo=grafana&link=https://grafana.com/)
 
 - **Security**:  
-  ![Apigee](https://img.shields.io/badge/Security-Apigee-blue?logo=apigee&link=https://cloud.google.com/apigee)  
   ![WAF](https://img.shields.io/badge/Security-WAF-blue?logo=nginx&link=https://www.nginx.com/products/web-application-firewall/)
 
 - **Quality & Testing**:  
