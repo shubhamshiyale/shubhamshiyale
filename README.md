@@ -20,7 +20,6 @@
 
 - **CI/CD**:  
   ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-blue?logo=jenkins&link=https://www.jenkins.io/)  
-  ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?logo=githubactions&link=https://github.com/features/actions)
 
 - **Infrastructure as Code (IaC)**:  
   ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform&link=https://www.terraform.io/)  
@@ -36,6 +35,8 @@
 
 - **Quality & Testing**:  
   ![SonarQube](https://img.shields.io/badge/Quality-SonarQube-blue?logo=sonarqube&link=https://www.sonarqube.org/)
+  ![Wiz](https://img.shields.io/badge/Security-Wiz-blue?logo=wiz&link=https://www.wiz.io/)  
+  ![Macroscope](https://img.shields.io/badge/Security-Macroscope-blue?logo=macroscope&link=https://www.macroscope.com/)
 
 - **Data & Cloud Migration**:  
   ![Data Migration](https://img.shields.io/badge/Migration-Data-blue?logo=azuredatabricks&link=https://azure.microsoft.com/en-us/services/databricks/)  
@@ -60,7 +61,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-shiyale&show_icons=true&theme=github_dark)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamshiyale&show_icons=true&theme=github_dark)
 
 ---
 
