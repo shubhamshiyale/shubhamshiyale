@@ -1,10 +1,21 @@
 # 👋 Hi, I'm Shubham Shiyale
 
-🚀 **DevOps Engineer** | Cloud • Kubernetes • CI/CD • Terraform • GCP • AWS
+🚀 **DevOps Engineer** with over 5 years of experience in automating infrastructure, optimizing workflows, and scaling cloud-native applications. I specialize in building and maintaining robust, secure, and scalable systems across multi-cloud environments.
 
-🔧 Automating infrastructure, securing pipelines, and scaling cloud-native applications with a focus on reliability, performance, and security.
+🌐 **Cloud Expertise**: Proficient in Google Cloud Platform (GCP) and Amazon Web Services (AWS), I work with teams to implement cloud architectures that meet both technical and business requirements, ensuring high availability, fault tolerance, and cost efficiency.
 
-📦 Passionate about building reliable systems, writing clean Infrastructure as Code (IaC), and exploring emerging technologies in the DevOps space.
+💻 **Kubernetes & Containers**: Skilled in containerization with Docker and orchestrating deployments with Kubernetes, I create dynamic, scalable, and fault-tolerant applications. My expertise includes cluster management, application scaling, and leveraging Kubernetes features for optimal performance.
+
+🔧 **CI/CD Pipelines**: I design and implement automated CI/CD pipelines using tools like Jenkins, GitHub Actions, and Terraform. I focus on streamlining code deployment, improving release cycles, and ensuring system integrity with robust testing and security measures.
+
+🛠️ **Infrastructure as Code (IaC)**: With a strong foundation in Terraform and Ansible, I automate infrastructure provisioning, configuration, and management. My goal is to reduce manual intervention, improve repeatability, and create scalable environments that evolve with the business.
+
+🔒 **Security & Compliance**: I emphasize security at every layer, from infrastructure design to application deployment, ensuring compliance with industry standards. I use tools like Apigee and WAFs to secure APIs and web applications, while also applying best practices for cloud security.
+
+🌱 **Always Learning**: I'm constantly exploring emerging technologies and tools in the DevOps space, staying updated with industry trends and best practices to drive innovation and improvements in the systems I work on.
+
+📦 **Passion for Reliable Systems**: I am deeply passionate about building systems that are reliable, maintainable, and cost-effective. I believe in the power of automation and continuous improvement to deliver optimal results in any development or production environment.
+
 
 ---
 
