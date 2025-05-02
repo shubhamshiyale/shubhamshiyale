@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Shiyale
 
-<!--
-**shubhamshiyale/shubhamshiyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer** | Cloud • Kubernetes • CI/CD • Terraform • GCP • AWS
 
-Here are some ideas to get you started:
+🔧 Automating infrastructure, securing pipelines, and scaling cloud-native applications with a focus on reliability, performance, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Passionate about building reliable systems, writing clean IaC, and exploring emerging technologies in the DevOps space.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Cloud**: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+* **Containers & Orchestration**: Docker, Kubernetes
+* **CI/CD**: Jenkins, GitHub Actions
+* **Infrastructure as Code**: Terraform, Ansible
+* **Monitoring & Logging**: Prometheus, Grafana
+* **Security**: Apigee, Web Application Firewall (WAF)
+* **Quality**: SonarQube
+
+---
+
+## 🎓 Certifications
+
+* 🏅 [Google Cloud Certified – Associate Cloud Engineer]
+
+  * [Credential ID: 25573091](https://www.credly.com/badges/2477b72d-5963-4118-9621-73fb5502966c/public_url)
+  * Issued by: Google Cloud
+  * Issued on: March 2023
+
+* 🏅 [Google Cloud Certified – Professional Cloud Architect]
+
+  * [Credential ID: 25573109](https://www.credly.com/badges/c89b5f6a-33b7-479a-bd49-cf8be68e96f9/public_url)
+  * Issued by: Google Cloud
+  * Issued on: March 2023
+
+* 🏅 Certified Kubernetes Administrator (CKA) – *In Progress*
+
+---
+
+## 📈 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamshiyale\&show_icons=true\&theme=github_dark)
+
+---
+
+## 📫 Connect with Me
+
+* 🌐 [LinkedIn](https://www.linkedin.com/in/shubham-shiyale-92525631a)
+* 💼 Portfolio: *(Coming soon)*
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to reach out or explore my repositories to learn more about what I'm building.*
