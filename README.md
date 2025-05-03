@@ -46,12 +46,19 @@ Containerized microservices and deployed on GKE using Helm and Terraform. Enable
 
 ---
 
-### 🎓 Certifications
+## 🎓 Certifications
 
-- **Google Cloud Certified - Professional Cloud Architect**
-- **Google Cloud Certified - Associate Cloud Engineer**
-- **Certified Kubernetes Administrator (CKA)**
-- **Bash Scripting - Udemy**
+- 🏅 **[Google Cloud Certified – Associate Cloud Engineer](https://www.credly.com/badges/2477b72d-5963-4118-9621-73fb5502966c/public_url)**  
+  Credential ID: [4e6ed570024e41498550b0dff2fc87df](https://www.credly.com/badges/2477b72d-5963-4118-9621-73fb5502966c/public_url)  
+  Issued by: Google Cloud  
+  Issued on: May 17, 2023
+
+- 🏅 **[Google Cloud Certified – Professional Cloud Architect](https://www.credly.com/badges/c89b5f6a-33b7-479a-bd49-cf8be68e96f9/public_url)**  
+  Credential ID: [fed5fa62e59a4ffbabb0d2d6caab15d8](https://www.credly.com/badges/c89b5f6a-33b7-479a-bd49-cf8be68e96f9/public_url)  
+  Issued by: Google Cloud  
+  Issued on: July 13, 2024
+
+- 🏅 **Certified Kubernetes Administrator (CKA)** – *In Progress*
 
 ---
 
