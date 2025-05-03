@@ -27,25 +27,6 @@ My passion lies in simplifying cloud operations, optimizing costs, enhancing sec
 
 ---
 
-### 📂 Featured Projects
-
-#### 1. **CI/CD Pipeline with Jenkins + Terraform + ArgoCD**
-Automated infrastructure provisioning and application deployments using Jenkins for orchestration, Terraform for IaC, and ArgoCD for GitOps workflows.
-
-#### 2. **Kafka MSK Automation & Monitoring**
-Developed Jenkins pipelines to automate Kafka topic creation and deployment. Integrated monitoring and alerting using CloudWatch and Splunk.
-
-#### 3. **Infrastructure Migration to GCP**
-Led database migration projects for IMS, VSAM, Oracle to GCP using minimal downtime strategies. Integrated IAM, SQL IAM binding, and user provisioning automation.
-
-#### 4. **Security & Compliance Automation**
-Integrated SonarQube and Black Duck into CI/CD to ensure code quality and vulnerability checks before production deployment.
-
-#### 5. **Dockerized Deployments on GKE**
-Containerized microservices and deployed on GKE using Helm and Terraform. Enabled centralized logging with Splunk and Prometheus.
-
----
-
 ## 🎓 Certifications
 
 - 🏅 **[Google Cloud Certified – Associate Cloud Engineer](https://www.credly.com/badges/2477b72d-5963-4118-9621-73fb5502966c/public_url)**  
