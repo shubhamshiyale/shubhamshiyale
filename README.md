@@ -15,7 +15,7 @@ My passion lies in simplifying cloud operations, optimizing costs, enhancing sec
 
 ### 🔧 Tech Stack
 
-- **Cloud**: GCP, AWS
+- **Cloud**: ![GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=googlecloud&link=https://cloud.google.com/)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws&link=https://aws.amazon.com/)
 - **CI/CD**: Jenkins, Cloud Build, Argo CD, GitHub Actions
 - **IaC**: Terraform, Ansible, Helm
 - **Containers & K8s**: Docker, Kubernetes (GKE, EKS), Helm, Kustomize
