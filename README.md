@@ -16,13 +16,14 @@ My passion lies in simplifying cloud operations, optimizing costs, enhancing sec
 ### 🔧 Tech Stack
 
 - ![GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=googlecloud&link=https://cloud.google.com/)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws&link=https://aws.amazon.com/)
-- **CI/CD**: ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-blue?logo=jenkins&link=https://www.jenkins.io/) ![Argo CD](https://img.shields.io/badge/CI%2FCD-Argo%20CD-blue?logo=argo&link=https://argoproj.github.io/argo-cd/)
-- **IaC**: Terraform, Ansible, Helm
-- **Containers & K8s**: Docker, Kubernetes (GKE, EKS), Helm, Kustomize
-- **Scripting**: Bash, Python, Groovy, Jinja
-- **Monitoring & Security**: Prometheus, Grafana, CloudWatch, Splunk, SonarQube, Black Duck
-- **Data & Messaging**: Kafka (MSK), MongoDB, Oracle, RDS, IMS, VSAM
-- **SCM & Others**: Git, Jira, Rally
+- ![Git](https://img.shields.io/badge/SCM-Git-F05032?logo=git) ![Jira](https://img.shields.io/badge/Project-Jira-0052CC?logo=jira) ![Rally](https://img.shields.io/badge/Project-Rally-FF6F00)
+- ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-blue?logo=jenkins&link=https://www.jenkins.io/) ![Argo CD](https://img.shields.io/badge/CI%2FCD-Argo%20CD-blue?logo=argo&link=https://argoproj.github.io/argo-cd/)
+- ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform&link=https://www.terraform.io/)  ![Ansible](https://img.shields.io/badge/IaC-Ansible-blue?logo=ansible&link=https://www.ansible.com/)
+- ![Docker](https://img.shields.io/badge/Containers-Docker-blue?logo=docker&link=https://www.docker.com/) ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&link=https://kubernetes.io/)
+- ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?logo=gnubash) ![Python](https://img.shields.io/badge/Scripting-Python-yellow?logo=python) ![Groovy](https://img.shields.io/badge/Scripting-Groovy-4298B8?logo=apachegroovy) ![Jinja](https://img.shields.io/badge/Templating-Jinja-B41717)
+- ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-blue?logo=prometheus&link=https://prometheus.io/) ![Grafana](https://img.shields.io/badge/Monitoring-Grafana-blue?logo=grafana&link=https://grafana.com/)
+- ![Data Migration](https://img.shields.io/badge/Migration-Data-blue?logo=azuredatabricks&link=https://azure.microsoft.com/en-us/services/databricks/)  ![Cloud Migration](https://img.shields.io/badge/Migration-Cloud-blue?logo=aws&link=https://aws.amazon.com/cloud-migration/)
+
 
 ---
 
